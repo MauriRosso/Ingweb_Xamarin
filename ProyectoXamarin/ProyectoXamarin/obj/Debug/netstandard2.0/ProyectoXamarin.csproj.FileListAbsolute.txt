@@ -1,0 +1,26 @@
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.0\ProyectoXamarin.deps.json
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.0\ProyectoXamarin.dll
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.0\ProyectoXamarin.pdb
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.csprojAssemblyReference.cache
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.AssemblyInfoInputs.cache
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.AssemblyInfo.cs
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.dll
+C:\Users\mauri\Desktop\MAURI\UNIVERSIDAD\Electiva I (Ingeniería web y mobile)\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.pdb
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.0\ProyectoXamarin.deps.json
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.0\ProyectoXamarin.dll
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\bin\Debug\netstandard2.0\ProyectoXamarin.pdb
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.csproj.CoreCompileInputs.cache
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.AssemblyInfoInputs.cache
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.AssemblyInfo.cs
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.dll
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.pdb
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\ProyectoXamarin.csprojAssemblyReference.cache
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\ProyectoXamarin\ProyectoXamarin\ProyectoXamarin\obj\Debug\netstandard2.0\PostDetail.xaml.g.cs

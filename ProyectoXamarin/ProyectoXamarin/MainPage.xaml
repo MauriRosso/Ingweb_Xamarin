@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ProyectoXamarin"
+             x:Class="ProyectoXamarin.MainPage">
+    
+    <StackLayout x:Name="PantallaPrincipal" BackgroundColor="CadetBlue" >
+        <!-- Place new controls here -->
+        <Label x:Name="lblTitulo"
+               Text="¡Bienvenido a JUEGOSeñas!"
+               FontSize="25"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="Orange"
+               BackgroundColor="Black"></Label>
+        <Image x:Name="LogoPrincipal"></Image>
+        <Label x:Name="lblDescripcion" Text="Tu comunidad de reseñas sobre juegos por y para jugadores."
+               TextColor="Black"
+               FontSize="20"
+               HorizontalOptions="Center"></Label>
+        <Label x:Name="lblBuscar" Text="Buscar Reseña por categoría:"></Label>
+
+        <Picker x:Name="Categorias" Title="--Seleccione una categoría--"
+                SelectedIndexChanged="Categorias_SelectedIndexChanged">
+        </Picker>
+        <Label x:Name="CategoriaElegida"
+               FontSize="15"
+               FontAttributes="Bold"
+               Text="Ninguna categoría seleccionada."></Label>
+        
+
+
+    </StackLayout>
+
+</ContentPage>

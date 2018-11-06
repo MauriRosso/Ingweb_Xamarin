@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoXamarin.LoginPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="lblIniciarSesion" FontSize="18" Text="Iniciar Sesión" />
+            <Label Text="Nombre de usuario" />
+            <Entry x:Name="User"></Entry>
+            <Label Text="Contraseña" />
+            <Entry x:Name="Password"></Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,226 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "4dff186aeb14abba65987b1513ce0e55aa1a0486"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "ProyectoXamarin/1.0.0": {
+        "dependencies": {
+          "Microsoft.Net.Http": "2.2.29",
+          "NETStandard.Library": "2.0.3",
+          "Newtonsoft.Json": "11.0.2",
+          "Xamarin.Forms": "3.1.0.697729",
+          "Xamarin.Forms.Navigation": "1.0.1",
+          "Xamarin.Forms.ToolKit.Behaviors": "1.0.2",
+          "Xamarin.Forms.ToolKit.Controls": "1.0.2",
+          "Xamarin.Forms.ToolKit.Converters": "1.0.0",
+          "Xamarin.Forms.ToolKit.Extensions": "1.0.4"
+        },
+        "runtime": {
+          "ProyectoXamarin.dll": {}
+        }
+      },
+      "Microsoft.Bcl/1.1.10": {
+        "dependencies": {
+          "Microsoft.Bcl.Build": "1.0.14"
+        }
+      },
+      "Microsoft.Bcl.Build/1.0.14": {},
+      "Microsoft.Net.Http/2.2.29": {
+        "dependencies": {
+          "Microsoft.Bcl": "1.1.10",
+          "Microsoft.Bcl.Build": "1.0.14"
+        },
+        "runtime": {
+          "lib/net45/System.Net.Http.Extensions.dll": {
+            "assemblyVersion": "2.2.29.0",
+            "fileVersion": "2.2.29.0"
+          },
+          "lib/net45/System.Net.Http.Primitives.dll": {
+            "assemblyVersion": "4.2.29.0",
+            "fileVersion": "4.2.29.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "Xamarin.Forms/3.1.0.697729": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms.Navigation/1.0.1": {
+        "dependencies": {
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Navigation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms.ToolKit.Behaviors/1.0.2": {
+        "dependencies": {
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.ToolKit.Behaviors.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "Xamarin.Forms.ToolKit.Controls/1.0.2": {
+        "dependencies": {
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.ToolKit.Controls.dll": {
+            "assemblyVersion": "1.0.2.0",
+            "fileVersion": "1.0.2.0"
+          }
+        }
+      },
+      "Xamarin.Forms.ToolKit.Converters/1.0.0": {
+        "dependencies": {
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.ToolKit.Converters.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms.ToolKit.Extensions/1.0.4": {
+        "dependencies": {
+          "Xamarin.Forms": "3.1.0.697729"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.ToolKit.Extensions.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyectoXamarin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Bcl/1.1.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BT7l/NmBorDS6ZEZhUyzaREaVg0jGrALySl1OM+ffV/Hjh9CSj3Qfa8nvdSoph1VDX9zDVXH/UBZMAJ5SISg3g==",
+      "path": "microsoft.bcl/1.1.10",
+      "hashPath": "microsoft.bcl.1.1.10.nupkg.sha512"
+    },
+    "Microsoft.Bcl.Build/1.0.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-57EJ/NGEDQkIlQs9aO4adkYeaHMdg+pn5D8RfO1ZXQJgHOjTfGH+kWfppEaD6cg0PE2kGn9/GsACcu2LLyJM0g==",
+      "path": "microsoft.bcl.build/1.0.14",
+      "hashPath": "microsoft.bcl.build.1.0.14.nupkg.sha512"
+    },
+    "Microsoft.Net.Http/2.2.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ls9yfwKS/5F4nBUq34U0HKAke+m4Jy0AFEQVvgHHdP7QccfFQFR1iq99qLms1lfd1OjfvfdBMA7o3bP2IMakwQ==",
+      "path": "microsoft.net.http/2.2.29",
+      "hashPath": "microsoft.net.http.2.2.29.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-znZGbws7E4BA9jxNZ7FuiIRI3C9hrgatVQSTKhIYZYNOud4M5VfGlTYi6RdYO5sQrebFuF/g9UEV3hOxDMXF6Q==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Xamarin.Forms/3.1.0.697729": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YlFOM9u8onIRxJwYJ3l+O0wFKqzzrDjDrgnoBr1rct+eaQKU77vFydxvTP+WxYlYzR14hYvyLNC65L84+6ke6w==",
+      "path": "xamarin.forms/3.1.0.697729",
+      "hashPath": "xamarin.forms.3.1.0.697729.nupkg.sha512"
+    },
+    "Xamarin.Forms.Navigation/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yvle2R0MDnFU149ICaMH5brFzXYmdz3ObmAVfpb73Ayhf4o+HoH4XSuQJSqU99Rmiep0hOHvb9iRL3allv6WUQ==",
+      "path": "xamarin.forms.navigation/1.0.1",
+      "hashPath": "xamarin.forms.navigation.1.0.1.nupkg.sha512"
+    },
+    "Xamarin.Forms.ToolKit.Behaviors/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+8G8oH/YYm4b0/t837IzyUBBgxPL2n3VGm9Du5ITLevfmjI7Ed6+0PKBpYhzv21xaNZiW3ix478Kk6S1MF/rQg==",
+      "path": "xamarin.forms.toolkit.behaviors/1.0.2",
+      "hashPath": "xamarin.forms.toolkit.behaviors.1.0.2.nupkg.sha512"
+    },
+    "Xamarin.Forms.ToolKit.Controls/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oRxQSCkv9wyqHoB65RPskBbW0SBSSc1nZYnPH3R/eg9etyQFnwbNtjtGnj/2P7UtoD+63/4vFEBDgcR+cQLTxQ==",
+      "path": "xamarin.forms.toolkit.controls/1.0.2",
+      "hashPath": "xamarin.forms.toolkit.controls.1.0.2.nupkg.sha512"
+    },
+    "Xamarin.Forms.ToolKit.Converters/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5XpcubPG8V8BhHZuXB6IYubnM63xCnw4u4j3xr8QTZY3bLUItTdnakf9jMtgfwvDvoaIymzfQSNfDt45PIhMeg==",
+      "path": "xamarin.forms.toolkit.converters/1.0.0",
+      "hashPath": "xamarin.forms.toolkit.converters.1.0.0.nupkg.sha512"
+    },
+    "Xamarin.Forms.ToolKit.Extensions/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Yqsv4Beih2sn7U9YB3hOrMm+vbzm90nuoET7u19oS+c1of2mF82OxheClioKeVTqt+0vJco9MNdJhJwDjCL8Xw==",
+      "path": "xamarin.forms.toolkit.extensions/1.0.4",
+      "hashPath": "xamarin.forms.toolkit.extensions.1.0.4.nupkg.sha512"
+    }
+  }
+}
